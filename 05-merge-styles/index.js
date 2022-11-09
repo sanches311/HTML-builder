@@ -30,7 +30,6 @@ const getBundle = async() => {
     }        
   } 
 }
-
 getBundle();
 
 
